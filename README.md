@@ -47,4 +47,4 @@ The project features a **real-time digital clock** that displays accurate system
 
 ---
 
-### 🕓 *My first Java Swing GUI project — functional, elegant, and built from the ground up.*
+### 🕓 *My first Java  project — functional, elegant, and built from the ground up.*
