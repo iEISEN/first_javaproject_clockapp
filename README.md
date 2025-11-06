@@ -1,4 +1,4 @@
-# ⏰ Java Swing Clock App (GUI)
+# ⏰ Clock App 
 
 This is my **CSE 1116 – Object Oriented Programming Laboratory Project**,  
 completed in the **Summer 222 Trimester** at **United International University (UIU)**.  
